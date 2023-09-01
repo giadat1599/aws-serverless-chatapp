@@ -1,4 +1,6 @@
 node_modules
-commands.sh
+package.json
+.prettierrc
+package-lock.json
 handler.zip
 .DS_Store
